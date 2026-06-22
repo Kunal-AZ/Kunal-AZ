@@ -109,17 +109,11 @@ Detects product price drops from Amazon & Flipkart and notifies users instantly.
 ### 📚 Library Management System
 Java-based project for managing books, users, and transactions.
 
-### 🛵 Smart Electric Scooter App
-Product & Engineering case study focused on customer experience.
-
-### 🎨 Journey Through Indian Art History
-Interactive visual timeline of Indian Art History.
-
 ---
 
 ## 🎯 Current Goals
 
-- 🔥 Solve 500+ DSA Problems
+- 🔥 Solve 300+ DSA Problems
 - 🚀 Contribute to Open Source
 - 💻 Build Full Stack Projects
 - ☁ Learn Cloud Computing
